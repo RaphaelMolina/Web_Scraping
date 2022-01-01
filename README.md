@@ -1,5 +1,6 @@
 # Web Scraping
-Web Scraping com a Biblioteca Beautiful Soup no Google Colab. 
+Web Scraping com a Biblioteca Beautiful Soup e criação de um Data Frame com os dados obtidos. 
+Utilizando o Google Colab. 
 
 <br>
 
